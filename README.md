@@ -1,60 +1,72 @@
-# js-interview
-
-# Data types
-## List of types
-## Type casting && comparison
-
-# Inheritance
-## ES5 - prototypes
-## ES2015 (ES6) - classes
+## Useful sites
+https://es5.github.io/
+https://github.com/h5bp/Front-end-Developer-Interview-Questions
+http://dmitrysoshnikov.com/
 
 
-# Functional expressions && statements
+## Data types
+### List of types
+### Dynamic typing
+### Type casting && comparison
 
-# Scope && closure
+## Inheritance
+### ES5 - prototypes
+### ES2015 (ES6) - classes
 
-# "New" && "this" keywords
 
-# Execution queue
-## code execution, setTimeout, callbacks, events
-## multithreading && workers
+## Functional expressions && statements
 
-# Exceptions
+## Scope && closure
 
-# Network
-## Ajax
+## "New" && "this" keywords
 
-# Browser mode
-## Events
+## Execution queue
+### code execution, setTimeout, callbacks, events
+### multithreading && workers
+
+## Exceptions
+
+## Network
+### Ajax
+
+## Browser mode
+### Events
 addEventListener + legacy attachEvent
 event delegation
-## AMD && implementations
-## Rendering
-## Debug
-## Performance && profiling
-## DOM
+### AMD && implementations
+### Rendering
+### Debug
+### Performance && profiling
+### DOM
 "shadow" dom from react
 dom history http://www.quirksmode.org/js/dom0.html
-## Cookies
-## LocalStorage && SessionStorage
+### Cookies
+### LocalStorage && SessionStorage
 
-# Server mode - nodejs
-## CommonJS && implementations
-## Debug
-## Performance && profiling
-## Error handling
+## Server mode - nodejs
+### CommonJS && implementations
+### Debug
+### Performance && profiling
+### Error handling
 
-# Hybrid mode
-## Cordova && phonegap
+## Hybrid mode
+### Cordova && phonegap
 
-# Transcompiling to JS
-## ES2015 (ES6) to ES5
-## TypeScript
-## Dart
-## Coffeescript
+## Transcompiling to JS
+### ES2015 (ES6) to ES5
+### TypeScript
+### Dart
+### Coffeescript
 
-# tmp - move somewhere
-## promises
+## tmp - move somewhere
+### promises
 note jQuery deffered - outdated
-## generators
-## ES6 import and other features
+### generators
+### ES6 import and other features
+### asm.js
+
+## Miscellaneous
+### Auto semicolon insertion
+### arguments && arguments.callee
+### strict mode
+### Hoisting
